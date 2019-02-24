@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Jalali Widget
+Comment=Jalali Widget for KDE
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Sajjad Hashemian
+X-KDE-PluginInfo-Email=hi@hashemian.me
+X-KDE-PluginInfo-License=GPL2
+X-KDE-PluginInfo-Name=org.kde.jalaliWidget
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/sijad/kde-plasma-applet-jalali-widget
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=Date and Time
+Icon=calendar
